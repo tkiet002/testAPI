@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaceReconigtion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f9dde9f4d985af6fb2bf8c531e17ac20d87a7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaceReconigtion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaceReconigtion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
